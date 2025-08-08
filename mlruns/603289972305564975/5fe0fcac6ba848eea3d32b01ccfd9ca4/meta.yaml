@@ -1,0 +1,15 @@
+artifact_uri: /Volumes/Satya/mlops/Assignment/mlops_group_141_assignment_1/MLOps_Group_141_Assignment_1/mlruns/603289972305564975/5fe0fcac6ba848eea3d32b01ccfd9ca4/artifacts
+end_time: 1754660287613
+entry_point_name: ''
+experiment_id: '603289972305564975'
+lifecycle_stage: active
+run_id: 5fe0fcac6ba848eea3d32b01ccfd9ca4
+run_name: DecisionTree
+run_uuid: 5fe0fcac6ba848eea3d32b01ccfd9ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754660286264
+status: 3
+tags: []
+user_id: nagavenkatasatyanarayanagurram

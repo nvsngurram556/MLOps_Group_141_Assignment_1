@@ -1,0 +1,25 @@
+# Service account key (never commit this)
+mlopsassignment-468409-8e0ba2dfa401.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# DVC
+/data/raw/housing.csv
+
+# Logs and models
+*.log
+models/
+
+# Environments
+.env
+.venv/
+
+# OS
+.DS_Store
+
+# DVC cache
+.cache/

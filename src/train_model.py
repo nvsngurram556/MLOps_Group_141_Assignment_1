@@ -4,6 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from preprocess import load_and_preprocess
+import joblib
 import os
 import warnings
 import numpy
@@ -34,6 +35,8 @@ def train_and_log_models():
         with mlflow.start_run(run_name=name):
             # Train
             model.fit(X_train, y_train)
+            joblib.dump(model, "app/model/model.joblib")
+            print(f"✅ Trained {name} model")
 
             # Predict
             preds = model.predict(X_test)

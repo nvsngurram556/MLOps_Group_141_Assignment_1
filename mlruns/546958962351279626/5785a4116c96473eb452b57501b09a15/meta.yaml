@@ -1,0 +1,15 @@
+artifact_uri: /Volumes/Satya/mlops/Assignment/mlops_group_141_assignment_1/MLOps_Group_141_Assignment_1/mlruns/546958962351279626/5785a4116c96473eb452b57501b09a15/artifacts
+end_time: 1754652474033
+entry_point_name: ''
+experiment_id: '546958962351279626'
+lifecycle_stage: active
+run_id: 5785a4116c96473eb452b57501b09a15
+run_name: LinearRegression
+run_uuid: 5785a4116c96473eb452b57501b09a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754652472383
+status: 3
+tags: []
+user_id: nagavenkatasatyanarayanagurram
